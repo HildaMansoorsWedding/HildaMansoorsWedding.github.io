@@ -493,7 +493,7 @@ html.no-touch nav ul li:hover {
     height: 300px; */
     width: 450px;
     height: 350px;
-    background: url('../img/jadwalzoom.png') center no-repeat;
+    background: url('../img/jadwalzoom2.png') center no-repeat;
     z-index: 200;
 }
 
@@ -839,7 +839,7 @@ html.no-touch nav ul li:hover {
   }
 
   #Protokol {
-    background: url('../img/jadwalzoom.png');
+    background: url('../img/jadwalzoom2.png');
     background-size: 450px 350px;
 }
 
@@ -849,7 +849,7 @@ html.no-touch nav ul li:hover {
   }
 
   footer {
-    background-image: url('../img/ground%402x.png');
+    background-image: url('../img/');
     background-size: 3028px 378px;
   }
 
